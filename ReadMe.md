@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Gerhardt Roets 👋<br><br>I'm a final year BSc Information Technology student at North-West University <br>(Potchefstroom), passionate about software development, database design, and <br>System Development.<br><br>## 🎓 Currently Studying<br>- Artificial Intelligence & Machine Learning<br>- Database Management Systems<br>- Computer Networks & Security<br>- Decision Support Systems<br><br>## 🛠️ Tech Stack<br>Python  •  C#  •  SQL  •  Java  •  GitHub<br><br>## 🔗 Connect with Me<br>- 🌐 [Portfolio](https://g3rrie.github.io/Portfolio/)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/gerhardtroets)
+# Hi there, I'm Gerhardt Roets 👋<br><br>I'm a final year BSc Information Technology student at North-West University <br>(Potchefstroom), passionate about software development, database design, and <br>System Development.<br><br>## 🎓 Currently Studying<br>- Artificial Intelligence & Machine Learning<br>- Database Management Systems<br>- Computer Networks & Security<br>- Decision Support Systems<br>- 🌐 [Portfolio](https://g3rrie.github.io/Portfolio/)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/gerhardtroets)
 
 
 ## 🌐 Socials:
